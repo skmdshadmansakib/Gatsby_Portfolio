@@ -1,10 +1,14 @@
-1. Create a Gatsby site.
+Create a Gatsby site.
 Use the Gatsby CLI to clone the site and install dependencies:
 
 npx gatsby new gatsby-starter-portfolio-cara https://github.com/LekoArts/gatsby-starter-portfolio-cara
-2. Navigate to your new project.
+
+
+Navigate to your new project.
 cd gatsby-starter-portfolio-cara
-3. Open the code and start customizing!
+
+
+Open the code and start customizing!
 Start the site by running npm run develop.
 
 Your site is now running at http://localhost:8000!
